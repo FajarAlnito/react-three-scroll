@@ -1,1 +1,7 @@
-https://www.youtube.com/watch?v=J9t9Vmw6xSQ&t=520s
+# react-three-scroll
+Following this [tutorial](https://youtube.com/watch?v=J9t9Vmw6xSQ&amp;t=520s)
+### Using:
+- vite
+- react
+- @react-three/fiber
+- @react-three/drei
